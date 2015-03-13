@@ -1,5 +1,8 @@
 # 中国VIM用户名单
 
+
+Fork this repository and add your profile then send PR, we will add you.
+
 Who using vim in china
 
 首级目录是省名及直辖市
